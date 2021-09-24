@@ -3,7 +3,7 @@ import { View, Text } from "react-native";
 function batata({ navigation }) {
   return (
     <View>
-      <Text>hello from batat </Text>
+      <Text>hello from Post data page </Text>
     </View>
   );
 }
